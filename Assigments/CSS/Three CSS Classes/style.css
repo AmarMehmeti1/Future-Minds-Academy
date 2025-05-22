@@ -1,0 +1,20 @@
+.light{
+    background-color: lightgrey;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.new{
+    border: 2px solid yellow;
+    box-shadow: 2px 2px 2px grey;
+}
+.lightnew{
+    background-color: rgba(168, 18, 95, 0.692);
+    color: rgb(255, 0, 0);
+}
+.dark new{
+    background-color: rgb(223, 0, 149);
+    color: rgb(248, 0, 0);
+}
